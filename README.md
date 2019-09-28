@@ -1,4 +1,4 @@
-# Income-Classification
+# Web-Scraping
 ## Project Objective
 Web scraping of financial data  
 
