@@ -1,1 +1,366 @@
-
+,Symbol,Issuer,Name,Asset Class,Inception Date,Total Assets (MM),MER,Inverse,Leveraged,Currency Hedged,Active Managed
+0,AXF,First Asset,First Asset All Canada Bond Barbell Index,Fixed Income,2012-07-10,2,0.28%,N?,N,N?,N?
+1,BKL,Invesco,PowerShares Senior Loan,Equity,2012-04-13,51,0.82%,N?,N,Y?,?
+2,BXF,First Asset,First Asset 1-5 Year Laddered Government Strip Bond Index,Fixed Income,2013-06-11,31,0.13%,N?,N,N?,N?
+3,CBD,Blackrock,iShares Balanced Income CorePortfolio Index,Equity,2007-06-21,82,0.72%,N?,N,N?,N?
+4,CBH,Blackrock,iShares 1-10 Year Laddered Corporate Bond Index,Fixed Income,2011-10-20,122,0.28%,N?,N,N?,N?
+5,CBN,Blackrock,iShares Balanced Growth CorePortfolio Index,Equity,2007-06-21,50,0.78%,N?,N,N?,N?
+6,CBO,Blackrock,iShares 1-5 Year Laddered Corporate Bond Index,Fixed Income,2009-02-25,0,0.28%,N?,N,N?,N?
+7,CBQ,Blackrock,iShares BRIC Index,Equity,2006-09-08,92,0.67%,N?,N,N?,N?
+8,CBR,Blackrock,iShares Broad Commodity Index,Equity,2010-10-13,26,0.91%,N?,N,Y?,N?
+9,CDZ,Blackrock,iShares SPTSX Canadian Dividend Aristocrats Index,Equity,2006-09-08,986,0.66%,N?,N,N?,N?
+10,CEW,Blackrock,iShares Equal Weight Banc Lifeco,Equity,2008-02-06,80,0.61%,N?,N,N?,?
+11,CGL,Blackrock,iShares Gold Bullion,Equity,2009-05-28,229,0.56%,N?,N,N?,?
+12,CGL.C,Blackrock,iShares Gold Bullion,Equity,2009-05-28,229,0.56%,N?,N,N?,?
+13,CGR,Blackrock,iShares Global Real Estate Index,Equity,2008-08-26,107,0.72%,N?,N,N?,N?
+14,CHB,Blackrock,iShares Advantaged U.S. High Yield Bond Index,Fixed Income,2010-01-11,251,0.56%,N?,N,Y?,N?
+15,CHI,Blackrock,iShares China All-Cap Index,Equity,2010-08-05,16,0.70%,N?,N,Y,N?
+16,CIE,Blackrock,iShares International Fundamental Index,Equity,2007-02-14,248,0.72%,N?,N,N?,N?
+17,CIF,Blackrock,iShares Global Infrastructure Index,Equity,2008-08-27,45,0.72%,N?,N,N?,N?
+18,CJP,Blackrock,iShares Japan Fundamental Index,Equity,2007-02-14,110,0.72%,N?,N,Y?,N?
+19,CLF,Blackrock,iShares 1-5 Year Laddered Government Bond Index,Fixed Income,2008-01-31,0,0.17%,N?,N,N?,N?
+20,CLG,Blackrock,iShares 1-10 Year Laddered Government Bond Index,Fixed Income,2011-10-20,119,0.17%,N?,N,N?,N?
+21,CLO,Blackrock,iShares Oil Sands Index,Equity,2006-10-26,23,0.67%,N?,N,N?,N?
+22,CLU,Blackrock,iShares US Fundamental Index,Equity,2006-09-08,178,0.72%,N?,N,N?,N?
+23,CLU.C,Blackrock,iShares US Fundamental Index Cdn,Equity,2006-09-08,178,0.72%,N?,N,N?,N?
+24,CMR,Blackrock,iShares Premium Money Market,Equity,2008-02-19,65,0.28%,N?,N,N?,?
+25,CMW,Blackrock,iShares SPTSX Global Mining Index,Equity,2007-06-12,16,0.61%,N?,N,N?,N?
+26,COW,Blackrock,iShares Global Agriculture Index,Equity,2007-12-19,222,0.72%,N?,N,N?,N?
+27,CPD,Blackrock,iShares SPTSX Canadian Preferred Share Index,Equity,2007-04-10,0,0.50%,N?,N,N?,N?
+28,CRQ,Blackrock,iShares Canadian Fundamental Index,Equity,2006-09-08,34,1.55%,N?,N,N?,N?
+29,CSD,Blackrock,iShares Advantaged Short Duration High Income,Equity,2011-03-01,283,0.61%,N?,N,Y?,?
+30,CUD,Blackrock,iShares US Dividend Growers Index,Equity,2011-09-13,403,0.67%,N?,N,Y?,N?
+31,CVD,Blackrock,iShares Convertible Bond Index,Fixed Income,2011-06-14,121,0.50%,N?,N,N?,N?
+32,CWO,Blackrock,iShares Emerging Markets Fundamental Index,Equity,2009-04-07,56,0.67%,N?,N,N?,N?
+33,CWW,Blackrock,iShares Global Water Index,Equity,2007-06-04,64,0.67%,N?,N,N?,N?
+34,CXF,First Asset,First Asset Canadian Convertible Bond,Fixed Income,2011-06-06,7,0.73%,N?,N,N?,?
+35,CYH,Blackrock,iShares Global Monthly Dividend Index,Equity,2008-01-15,126,0.66%,N?,N,Y?,N?
+36,DLR,Horizons,Horizons US Dollar Currency,Equity,2011-04-06,45,0.60%,N?,N,N?,?
+37,DXM,First Asset,First Asset Morningstar Canada Dividend Target 30 Index,Equity,2012-02-06,31,0.68%,N?,N,N?,N?
+38,ELV,Invesco,PowerShares SP Emerging Markets Low Volatility Index,Equity,2014-09-08,4,0.45%,N?,N,N?,N?
+39,ETP,First Trust,First Trust Global Risk Managed Income Index,Equity,2014-07-22,66,0.94%,N?,N,N?,N?
+40,EUR,First Trust,First Trust AlphaDEX European Dividend Index,Equity,2014-02-03,39,0.66%,N?,N,Y?,N?
+41,EXM,First Asset,First Asset Morningstar Emerging Markets Composite Bond Index,Fixed Income,2012-10-01,6,0.55%,N?,N,N?,N?
+42,FDE,First Trust,First Trust AlphaDEX Emerging Market Dividend,Equity,2013-05-14,4,0.72%,N?,N,Y?,?
+43,FDV,First Asset,First Asset Active Canadian Dividend,Equity,2014-09-03,236,1.27%,N?,N,N?,Y?
+44,FDY,First Trust,First Trust AlphaDEX Canadian Dividend Plus,Equity,2013-05-14,3,0.66%,N?,N,N?,?
+45,FHB,First Asset,First Asset European Bank,Equity,2014-07-23,62,1.15%,N?,N,N?,?
+46,FHC,First Trust,First Trust AlphaDEX U.S. Consumer Staples Sector,Equity,2014-10-29,2,0.79%,N?,N,Y?,?
+47,FHD,First Trust,First Trust AlphaDEX U.S. Consumer Discretionary Sector Hedged,Equity,2014-10-29,4,0.79%,N?,N,N?,?
+48,FHE,First Trust,First Trust AlphaDEX U.S. Energy Sector Index,Equity,2014-10-29,3,0.78%,N?,N,Y?,N?
+49,FHF,First Trust,First Trust AlphaDEX U.S. Financial Sector Index,Equity,2014-10-29,4,0.79%,N?,N,Y?,N?
+50,FHG,First Trust,First Trust AlphaDEX U.S. Industrials Sector Index,Equity,2014-10-29,2,0.79%,N?,N,Y?,N?
+51,FHH,First Trust,First Trust AlphaDEX U.S. Health Care Sector Index,Equity,2014-10-29,8,0.79%,N?,N,Y?,N?
+52,FHM,First Trust,First Trust AlphaDEX U.S. Materials Sector Index,Equity,2014-10-29,3,0.79%,N?,N,Y?,N?
+53,FHQ,First Trust,First Trust AlphaDEX U.S. Technology Sector Index,Equity,2014-10-29,3,0.79%,N?,N,Y?,N?
+54,FHU,First Trust,First Trust AlphaDEX U.S. Utilities Sector Index,Equity,2014-10-29,1,0.79%,N?,N,Y?,N?
+55,FHY,First Trust,First Trust Short Duration High Yield Bond,Fixed Income,2014-06-27,6,0.85%,N?,N,Y?,?
+56,FIE,Blackrock,iShares Canadian Financial Monthly Income,Equity,2010-04-16,321,0.85%,N?,N,N?,?
+57,FLI,First Asset,First Asset U.S. and Canada Lifeco Income,Equity,2014-09-03,131,1.14%,N?,N,N?,?
+58,RIT,First Asset,First Asset Active Canadian REIT,Equity,2014-09-03,1,0.70%,N?,N,N?,Y?
+59,FSL,First Trust,First Trust Senior Loan,Equity,2013-08-27,100,0.95%,N?,N,Y?,?
+60,FUD,First Trust,First Trust AlphaDEX U.S. Dividend Plus,Equity,2013-05-14,17,0.67%,N?,N,Y?,?
+61,FXF,First Asset,First Asset Can-Financials Covered Call,Equity,2011-06-03,1,0.74%,N?,N,N?,?
+62,FXM,First Asset,First Asset Morningstar Canada Value Index,Equity,2012-02-15,168,0.67%,N?,N,N?,N?
+63,GXF,First Asset,First Asset Government Bond Barbell Index,Fixed Income,2012-07-10,2,0.23%,N?,N,N?,N?
+64,HAA,Horizons,Horizons Active Diversified Income,Equity,2010-07-27,5,0.92%,N?,N,N?,Y?
+65,HAB,Horizons,Horizons Active Corporate Bond,Fixed Income,2010-07-15,542,0.60%,N?,N,N?,Y?
+66,HAC,Horizons,Horizons Seasonal Rotation,Equity,2009-11-19,116,1.29%,N?,N,N?,?
+67,HAD,Horizons,Horizons Active Cdn Bond,Fixed Income,2012-10-10,70,0.48%,N?,N,N?,Y?
+68,HAF,Horizons,Horizons Active Yield Matched Duration,Equity,2009-07-20,44,0.55%,N?,N,N?,Y?
+69,HAJ,Horizons,Horizons Active Emerging Markets Dividend,Equity,2012-10-10,5,0.91%,N?,N,N?,Y?
+70,HAL,Horizons,Horizons Active Cdn Dividend,Equity,2010-02-10,16,0.79%,N?,N,N?,Y?
+71,HAX,Horizons,Horizons Active SPTSX 60 Index Covered Call,Equity,2010-02-10,16,0.79%,N?,N,N?,N?
+72,HAZ,Horizons,Horizons Active Global Dividend,Equity,2010-07-20,203,0.90%,N?,N,N?,Y?
+73,HBB,Horizons,Horizons CDN Select Universe Bond,Fixed Income,2014-05-07,143,0.17%,N?,N,N?,?
+74,HBD,Horizons,Horizons BetaPro COMEX Gold Bullion Bear Plus,Equity,2008-01-22,2,1.50%,Y,Y,N?,?
+75,HBG,Hamilton Capital,Hamilton Capital Global Bank ETF,Equity,2016-01-25,104,--,N,N,Y?,Y
+76,HBR,Horizons,Horizons Auspice Broad Commodity Index,Equity,2008-01-22,2,1.50%,N?,N,N?,N?
+77,HBU,Horizons,BetaPro COMEX Gold Bullion Bull,Equity,2008-01-22,13,1.49%,N?,Y,N?,?
+78,HEA,Horizons,Horizons Enhanced Income US Equity,Equity,2011-09-13,35,0.80%,N?,N,N?,?
+79,HED,Horizons,Horizons BetaPro SPTSX Capped Energy Bear Plus,Equity,2007-06-19,6,1.51%,Y,Y,N?,?
+80,HEE,Horizons,Horizons Enhanced Income Energy,Equity,2011-04-11,30,0.80%,N?,N,N?,?
+81,HEF,Horizons,Horizons Enhanced Income Financials,Equity,2011-05-16,14,0.80%,N?,N,N?,?
+82,HEJ,Horizons,Horizons Enhanced Income International Equity,Equity,2011-09-13,11,0.80%,N?,N,N?,?
+83,HEP,Horizons,Horizons Enhanced Income Gold Producers,Equity,2011-04-11,29,0.80%,N?,N,N?,?
+84,HEU,Horizons,BetaPro SPTSX Capped Energy Bull,Equity,2007-06-19,14,1.51%,N?,Y,N?,?
+85,HEW,Horizons,Horizons SPTSX 60 Equal Weight Index,Equity,2010-07-13,24,0.59%,N?,N,N?,N?
+86,HEX,Horizons,Horizons Enhanced Income Equity,Equity,2011-03-16,65,0.80%,N?,N,N?,?
+87,HFD,Horizons,Horizons BetaPro SPTSX Capped Financials Bear Plus,Equity,2007-06-12,11,1.49%,Y,Y,N?,?
+88,HFMU.U,Hamilton Capital,Hamilton Capital U.S. Mid-Cap Financials ETF (USD),Equity,2017-08-01,US58,--,N,N,Y?,Y
+89,HFP,Horizons,Horizons Active Floating Rate Preferred Share,Equity,2013-10-02,52,0.62%,N?,N,N?,Y?
+90,HFR,Horizons,Horizons Active Floating Rate Bond,Fixed Income,2010-12-06,430,0.46%,N?,N,N?,Y?
+91,HFU,Horizons,BetaPro SPTSX Capped Financials Bull,Equity,2007-06-12,15,1.51%,N?,Y,N?,?
+92,HFY,Hamilton Capital,Hamilton Capital Global Financials Yield ETF,Equity,2017-02-06,72,--,N,N,Y?,Y
+93,HGD,Horizons,Horizons BetaPro SPTSX Global Gold Bear Plus,Equity,2007-06-26,19,1.49%,Y,Y,N?,?
+94,HGU,Horizons,BetaPro SPTSX Global Gold Bull,Equity,2007-06-26,86,1.50%,N?,Y,N?,?
+95,HGY,Horizons,Horizons Gold Yield,Equity,2012-02-27,22,0.72%,N?,N,N?,?
+96,HHF,Horizons,Horizons Morningstar Hedge Fund Index,Equity,2012-04-26,43,0.52%,N?,N,N?,N?
+97,HIU,Horizons,BetaPro SP 500 Inverse,Equity,2010-02-03,5,1.39%,Y,N,N?,?
+98,HIX,Horizons,BetaPro SPTSX 60 Inverse,Equity,2009-03-04,27,1.38%,Y,N,N?,?
+99,HJD,Horizons,MSCI Emerging Markets Bear Plus,Equity,2009-03-04,27,1.38%,Y,Y,N?,?
+100,HJU,Horizons,BetaPro MSCI Emerging Markets Bull,Equity,2009-03-04,27,1.38%,N?,Y,N?,?
+101,HMD,Horizons,Horizons BetaPro SPTSX Global Mining Bear Plus,Equity,2009-03-04,27,1.38%,Y,Y,N?,?
+102,HMF,Horizons,Horizons Auspice Managed Futures Index,Equity,2012-04-03,7,0.98%,N?,N,N?,N?
+103,HMU,Horizons,BetaPro SPTSX Global Base Metal Bull,Equity,2012-04-03,7,0.98%,N?,Y,N?,?
+104,HND,Horizons,Horizons BetaPro NYMEX Natural Gas Bear Plus,Equity,2008-01-16,55,1.39%,Y,Y,N?,?
+105,HNU,Horizons,BetaPro NYMEX Natural Gas Bull,Equity,2008-01-16,167,1.38%,N?,Y,N?,?
+106,HNY,Horizons,Horizons Natural Gas Yield,Equity,2012-02-29,13,1.03%,N?,N,N?,?
+107,HOD,Horizons,Horizons BetaPro NYMEX Crude Oil Bear Plus,Equity,2008-01-16,81,1.39%,Y,Y,N?,?
+108,HOG,Horizons,Horizons Canadian Midstream Oil Gas Index,Equity,2014-07-15,17,0.62%,N?,N,N?,N?
+109,HOU,Horizons,BetaPro NYMEX Crude Oil Bull,Equity,2008-01-16,179,1.39%,N?,Y,N?,?
+110,HPD,Horizons,BetaPro MSCI Japan Bear,Equity,2008-01-16,179,1.39%,Y,Y,N?,?
+111,HPR,Horizons,Horizons Active Preferred Share,Equity,2010-11-23,431,0.64%,N?,N,N?,Y?
+112,HPU,Horizons,BetaPro MSCI Japan Bull,Equity,2010-11-23,431,0.64%,N?,Y,N?,?
+113,HQD,Horizons,NASDAQ-100 Bear Plus,Equity,2008-06-18,7,1.52%,Y,Y,N?,?
+114,HQU,Horizons,BetaPro NASDAQ-100 Bull,Equity,2008-06-18,23,1.49%,N?,Y,Y,?
+115,HSD,Horizons,SP 500 Bear Plus,Equity,2008-06-18,44,1.48%,Y,Y,Y,?
+116,HSL,Horizons,Horizons Active Floating Rate Senior Loan,Equity,2014-10-15,42,0.83%,N?,N,N?,Y?
+117,HSU,Horizons,BetaPro SP 500 Index Bull,Equity,2008-06-18,24,1.52%,N?,Y,N?,N?
+118,HTD,Horizons,BetaPro U.S. 30-Year Bond Bear,Fixed Income,2008-06-25,7,1.48%,Y,Y,N?,?
+119,HUC,Horizons,Horizons NYMEX Crude Oil,Equity,2009-06-24,13,0.87%,N?,N,N?,?
+120,HUF,,Horizons Active US Floating Rate Bond,Fixed Income,?,0,--,N?,N,N?,Y?
+121,HUG,Horizons,Horizons COMEX Gold,Equity,2009-06-24,3,0.74%,N?,N,N?,?
+122,HUN,Horizons,Horizons NYMEX Natural Gas,Equity,2009-06-24,7,0.87%,N?,N,N?,?
+123,HUS.U,Horizons,Horizons US Equity Managed Risk,Equity,2012-05-29,17,1.03%,N?,N,N?,?
+124,HUT,Horizons,Horizons Cdn Equity Managed Risk,Equity,2012-05-29,11,1.03%,N?,N,N?,?
+125,HUV,Horizons,BetaPro SP 500 VIX Short-Term Futures,Equity,2010-12-16,3,0.97%,N?,N,N?,?
+126,HUZ,Horizons,Horizons COMEX Silver,Equity,2009-06-24,6,0.74%,N?,N,N?,?
+127,HVI,Horizons,BetaPro SP 500 VIX Short-Term Futures Inverse,Equity,2012-04-04,4,1.38%,Y,N,N?,?
+128,HVU,Horizons,BetaPro SP 500 VIX Short-Term Futures Bull,Equity,2010-12-16,40,1.72%,N?,Y,N?,?
+129,HXD,Horizons,Horizons BetaPro SPTSX 60 Bear,Equity,2007-01-08,61,1.45%,Y,Y,N?,?
+130,HXE,Horizons,Horizons SPTSX Capped Energy Index,Equity,2013-09-17,6,0.39%,N?,N,N?,N?
+131,HXF,Horizons,Horizons SPTSX Capped Financials Index,Equity,2013-09-17,6,0.40%,N?,N,N?,N?
+132,HXS,Horizons,Horizons SP 500 Index,Equity,2010-11-30,287,0.17%,N?,N,N?,N?
+133,HXT,Horizons,Horizons SPTSX 60 Index,Equity,2010-09-13,548,0.03% (after mgmt fee rebate),N?,N,N?,N?
+134,HXU,Horizons,BetaPro SPTSX 60 Bull,Equity,2007-01-08,41,1.46%,N?,Y,N?,?
+135,HYI,Horizons,Horizons Active High Yield Bond,Fixed Income,2012-02-15,56,0.69%,N?,N,N?,Y?
+136,HZD,Horizons,COMEX Silver Bear Plus,Equity,2009-06-30,4,1.50%,Y,Y,N?,?
+137,HZU,Horizons,BetaPro COMEX Silver Bull,Equity,2009-06-30,40,1.42%,N?,Y,N?,?
+138,IGT,Blackrock,iShares COMEX Gold US,Equity,2005-01-21,0,0.25%,N?,N,N?,?
+139,ILV,Invesco,PowerShares SP International Developed Low Volatility Index,Equity,2014-09-08,8,0.41%,N?,N,N?,N?
+140,KXF,First Asset,First Asset Corporate Bond Barbell Index,Fixed Income,2012-07-10,2,0.29%,N?,N,N?,N?
+141,LXF,First Asset,First Asset Can-60 Covered Call,Equity,2011-06-01,4,0.73%,N?,N,N?,?
+142,MXF,First Asset,First Asset Can-Materials Covered Call,Equity,2011-06-03,5,0.70%,N?,N,N?,?
+143,OXF,First Asset,First Asset Can-Energy Covered Call,Equity,2011-06-01,6,0.71%,N?,N,N?,?
+144,PBD,Breton Hill Capital,Total Return Bond Fund,Fixed Income,2013-09-04,110,1.03%,N?,N,N?,?
+145,PBI,Breton Hill Capital,Best Ideas Fund,Equity,2014-04-29,16,0.81%,N?,N,N?,?
+146,PDC,Invesco,PowerShares Canadian Dividend Index,Equity,2011-06-16,40,0.55%,N?,N,N?,N?
+147,PDF,Breton Hill Capital,Core Dividend Fund,Equity,2013-09-03,190,0.73%,N?,N,N?,?
+148,PEU,Breton Hill Capital,Enhanced US Equity Fund,Equity,2014-10-14,4,1.13%,N?,N,N?,?
+149,PFH,Invesco,PowerShares Fundamental High Yield Corp Bond,Fixed Income,2011-06-21,124,0.67%,N?,N,Y?,?
+150,PFL,Invesco,PowerShares 1-3 Year Laddered Floating Rate Note Index,Equity,2014-07-11,6,0.22%,N?,N,N?,N?
+151,PGL,Invesco,PowerShares Ultra Liquid Long Term Government Bond Index,Fixed Income,2011-06-15,525,0.28%,N?,N,N?,N?
+152,PHE,Breton Hill Capital,Tactical Hedged Equity Fund,Equity,2013-09-03,49,0.98%,N?,N,N?,?
+153,PHR,Breton Hill Capital,Duration Hedged Real Estate Fund,Equity,2014-04-29,7,0.80%,N?,N,N?,?
+154,PIN,Breton Hill Capital,Monthly Income Fund,Equity,2013-09-06,12,0.95%,N?,N,N?,?
+155,PMM,Breton Hill Capital,Multi-Strategy Market Neutral Fund,Equity,2014-10-14,22,1.14%,N?,N,N?,?
+156,PPS,Invesco,PowerShares Canadian Preferred Share Index,Equity,2011-06-16,146,0.51%,N?,N,N?,N?
+157,PRA,Breton Hill Capital,Diversified Real Asset Fund,Equity,2013-09-05,3,0.77%,N?,N,N?,?
+158,PSA,Breton Hill Capital,High Interest Savings,Equity,2013-10-15,260,0.12%,N?,N,N?,?
+159,PSB,Invesco,PowerShares 1-5 Year Laddered Investment Grade Corp Bond,Fixed Income,2011-06-15,635,0.28%,N?,N,N?,?
+160,PTB,Invesco,PowerShares Tactical Bond,Fixed Income,2012-08-24,278,0.53%,N?,N,N?,?
+161,PUD,Purpose Investments Inc,U.S. Dividend Fund,Equity,2014-11-24,4,0.68%,N?,N,N?,?
+162,PXC,Invesco,PowerShares FTSE RAFI Canadian Fundamental Index,Equity,2012-01-26,211,0.51%,N?,N,N?,N?
+163,PXF,First Asset,First Asset Provincial Bond Index,Fixed Income,2013-01-21,3,0.28%,N?,N,N?,N?
+164,PXU,Invesco,PowerShares FTSE RAFI US Fundamental,Equity,2012-01-26,243,0.57%,N?,N,Y?,?
+165,QCD,AGFiQ,AGFiQ Enhanced Core Canadian Equity ETF,Equity,2017-01-30,63.8,0.45%,N,N,N,N
+166,QEF,AGFiQ,AGFiQ Enhanced Global ESG Factors ETF,Equity,2017-02-12,69,0.45%,N,N,N,N
+167,QEM,AGFiQ,AGFiQ Enhanced Core Emerging Markets Equity ETF,Equity,2017-01-30,42,0.45%,N,N,N,N
+168,QIE,AGFiQ,AGFiQ Enhanced Core International Equity ETF,Equity,2017-01-30,80,0.45%,N,N,N,N
+169,QIF,AGFiQ,AGFiQ Enhanced Global Infrastructure ETF,Alternatives,2017-02-12,197,0.45%,N,N,N,N
+170,QGL,AGFiQ,AGFiQ Global Equity Rotation ETF,Equity,2017-01-30,3.7,0.55%,N,N,N,Y
+171,QMA,AGFiQ,AGFiQ MultiAsset Allocation ETF,Equity,2017-01-30,2.8,0.55%,N,N,N,Y
+172,QMY,AGFiQ,AGFiQ MultiAsset Income Allocation ETF,Equity,2017-01-30,3.2,0.55%,N,N,N,Y
+173,QUS,AGFiQ,AGFiQ Enhanced Core US Equity ETF,Equity,2017-01-30,184.3,0.45%,N,N,N,Y
+174,QQC,Invesco,PowerShares QQQ,Equity,2011-06-16,27,0.34%,N?,N,Y?,?
+175,QXM,First Asset,First Asset Morningstar National Bank Quebec Index,Equity,2012-02-06,52,0.58%,N?,N,N?,N?
+176,RBO,RBC Global,RBC 1-5 Year Laddered Corporate Bond,Fixed Income,2014-01-09,129,0.28%,N?,N,N?,?
+177,RCD,RBC Global,RBC Quant Canadian Dividend Leaders,Equity,2014-01-09,64,0.44%,N?,N,N?,?
+178,RHI,RBC Global,RBC Quant EAFE Dividend Leaders,Equity,2014-10-22,47,0.55%,N?,N,Y?,?
+179,RHP,RBC Global,RBC Quant European Dividend Leaders,Equity,2014-10-22,70,0.57%,N?,N,Y?,?
+180,RHU,RBC Global,RBC Quant U.S. Dividend Leaders,Equity,2014-01-09,173,--,N?,N,Y?,?
+181,RID,RBC Global,RBC Quant EAFE Dividend Leaders,Equity,2014-01-09,195,0.55%,N?,N,N?,?
+182,RID.U,RBC Global,RBC Quant EAFE Dividend Leaders,Equity,2014-01-09,195,0.55%,N?,N,N?,?
+183,RPD,RBC Global,RBC Quant European Dividend Leaders,Equity,2014-10-22,70,0.57%,N?,N,N?,?
+184,RPD.U,RBC Global,RBC Quant European Dividend Leaders,Equity,2014-10-22,70,0.57%,N?,N,N?,?
+185,RQC,RBC Global,RBC Target 2015 Corporate Bond Index,Fixed Income,2011-09-15,25,0.28%,N?,N,N?,N?
+186,RQD,RBC Global,RBC Target 2016 Corporate Bond Index,Fixed Income,2011-09-15,97,0.28%,N?,N,N?,N?
+187,RQE,RBC Global,RBC Target 2017 Corporate Bond Index,Fixed Income,2011-09-15,73,0.28%,N?,N,N?,N?
+188,RQF,RBC Global,RBC Target 2018 Corporate Bond Index,Fixed Income,2011-09-15,67,0.29%,N?,N,N?,N?
+189,RQG,RBC Global,RBC Target 2019 Corporate Bond Index,Fixed Income,2011-09-15,81,0.28%,N?,N,N?,N?
+190,RQH,RBC Global,RBC Target 2020 Corporate Bond Index,Fixed Income,2011-09-15,50,0.29%,N?,N,N?,N?
+191,RQI,RBC Global,RBC Target 2021 Corporate Bond Index,Fixed Income,2012-10-10,11,0.29%,N?,N,N?,N?
+192,RUD,RBC Global,RBC Quant U.S. Dividend Leaders,Equity,2014-01-09,173,--,N?,N,N?,?
+193,RUD.U,RBC Global,RBC Quant U.S. Dividend Leaders,Equity,2014-01-09,173,--,N?,N,N?,?
+194,RWC,First Asset,First Asset MSCI Canada Low Risk Weighted,Equity,2014-02-19,9,0.64%,N?,N,N?,?
+195,RWE,First Asset,First Asset MSCI Europe Low Risk Weighted,Equity,2014-02-11,53,0.66%,N?,N,Y?,?
+196,RWE.B,First Asset,First Asset MSCI Europe Low Risk Weighted,Equity,2014-02-11,10,0.66%,N?,N,Y?,?
+197,RWU,First Asset,First Asset MSCI USA Low Risk Weighted,Equity,2014-02-11,3,0.66%,N?,N,Y?,?
+198,RWU.B,First Asset,First Asset MSCI USA Low Risk Weighted,Equity,2014-02-11,6,0.66%,N?,N,Y?,?
+199,RWW,First Asset,First Asset MSCI World Low Risk Weighted,Equity,2014-02-19,27,--,N?,N,Y?,?
+200,RWW.B,First Asset,First Asset MSCI World Low Risk Weighted,Equity,2014-02-19,4,--,N?,N,Y?,?
+201,RXD,RBC Global,RBC Quant Emerging Markets Dividend Leaders,Equity,2014-10-22,22,0.79%,N?,N,N?,?
+202,RXD.U,RBC Global,RBC Quant Emerging Markets Dividend Leaders,Equity,2014-10-22,22,0.79%,N?,N,N?,?
+203,SVR,Blackrock,iShares Silver Bullion,Equity,2011-03-04,23,0.65%,N?,N,N?,?
+204,SVR.C,Blackrock,iShares Silver Bullion,Equity,2011-03-04,23,0.65%,N?,N,N?,?
+205,THB,Blackrock,PowerShares SPTSX Composite High Beta Index,Equity,2011-03-04,23,0.65%,N?,N,N?,N?
+206,TLV,Invesco,PowerShares SPTSX Composite Low Volatility Index,Equity,2012-04-24,57,0.33%,N?,N,N?,N?
+207,TXF,First Asset,First Asset Tech Giants Covered Call,Equity,2011-10-21,57,0.70%,N?,N,Y?,?
+208,UHB,First Asset,PowerShares SP 500 High Beta,Equity,2011-10-21,57,0.70%,N?,N,Y?,?
+209,ULV,Invesco,PowerShares SP 500 Low Volatility,Equity,2012-01-24,109,0.36%,N?,N,Y?,?
+210,USB,Invesco,PowerShares LadderRite U.S. 0-5 Year Corporate Bond Index - CAD,Fixed Income,2014-07-21,18,0.28%,N?,N,N?,N?
+211,USB.U,Invesco,PowerShares LadderRite U.S. 0-5 Year Corporate Bond Index - USD,Fixed Income,2014-07-21,18,0.28%,N?,N,N?,N?
+212,UXM,First Asset,First Asset Morningstar US Dividend Target 50 Index,Equity,2012-02-06,71,0.66%,N?,N,Y?,N?
+213,UXM.B,First Asset,First Asset Morningstar US Dividend Target 50 Index,Equity,2012-02-06,71,0.66%,N?,N,Y?,N?
+214,VA,Vanguard,FTSE Developed Asia Pacific Index,Equity,2014-06-30,18,0.23%,N?,N,N?,N?
+215,VAB,Vanguard,Canadian Aggregate Bond Index,Fixed Income,2011-11-30,376,0.19%,N?,N,N?,N?
+216,VBG,Vanguard,Global ex-U.S. Aggregate Bond Index,Fixed Income,2014-06-30,42,0.35%,N?,N,Y?,N?
+217,VBU,Vanguard,U.S. Aggregate Bond Index,Fixed Income,2014-06-30,17,0.20%,N?,N,Y?,N?
+218,VCE,Vanguard,FTSE Canada Index,Equity,2011-11-30,344,0.09%,N?,N,N?,N?
+219,VCN,Vanguard,FTSE Canada All Cap Index,Equity,2013-08-02,256,0.06%,N?,N,N?,N?
+220,VDU,Vanguard,FTSE Developed ex North America Index,Equity,2013-08-02,235,0.26%,N?,N,N?,N?
+221,VDY,Vanguard,FTSE Canadian High Dividend Yield Index,Equity,2012-11-02,159,0.30%,N?,N,N?,N?
+222,VE,Vanguard,FTSE Developed Europe Index,Equity,2014-06-30,70,0.23%,N?,N,N?,N?
+223,VEE,Vanguard,FTSE Emerging Markets Index,Equity,2011-11-30,283,0.29%,N?,N,N?,N?
+224,VEF,Vanguard,FTSE Developed ex North America Index,Equity,2011-11-30,349,0.27%,N?,N,Y?,N?
+225,VFV,Vanguard,SP 500 Index,Equity,2012-11-02,604,0.08%,N?,N,N?,N?
+226,VGG,Vanguard,U.S. Dividend Appreciation Index,Equity,2013-08-02,160,0.29%,N?,N,N?,N?
+227,VGH,Vanguard,U.S. Dividend Appreciation Index,Equity,2013-08-02,50,0.29%,N?,N,Y?,N?
+228,VRE,Vanguard,FTSE Canadian Capped REIT Index,Equity,2012-11-01,66,0.39%,N?,N,N?,N?
+229,VSB,Vanguard,Canadian Short-Term Bond Index,Fixed Income,2011-11-30,470,0.15%,N?,N,N?,N?
+230,VSC,Vanguard,Canadian Short-Term Corporate Bond Index,Fixed Income,2012-11-02,569,0.15%,N?,N,N?,N?
+231,VSP,Vanguard,SP 500 Index,Equity,2012-11-02,129,0.13%,N?,N,Y?,N?
+232,VUN,Vanguard,U.S. Total Market Index,Equity,2013-08-01,486,0.16%,N?,N,N?,N?
+233,VUS,Vanguard,U.S. Total Market Index,Equity,2011-11-30,275,0.16%,N?,N,Y?,N?
+234,VXC,Vanguard,FTSE All-World ex Canada Index,Equity,2014-06-30,197,0.27%,N?,N,N?,N?
+235,VXM,Vanguard,First Asset Morningstar International Value Index,Equity,2014-06-30,197,0.27%,N?,N,Y?,N?
+236,VXM.B,First Asset,First Asset Morningstar International Value Index,Equity,2014-11-13,10,0.41%,N?,N,Y?,N?
+237,WXM,First Asset,First Asset Morningstar Canada Momentum Index,Equity,2012-02-15,182,0.67%,N?,N,N?,N?
+238,XAL,Blackrock,iShares Alternatives Completion Portfolio Builder Fund,Equity,2008-11-13,29,0.72%,N?,N,N?,?
+239,XBB,Blackrock,iShares Canadian Universe Bond Index,Fixed Income,2000-11-20,0,0.33%,N?,N,N?,N?
+240,XBM,Blackrock,iShares SPTSX Global Base Metals Index,Equity,2011-04-12,27,0.61%,N?,N,N?,N?
+241,XCB,Blackrock,iShares Canadian Corporate Bond Index,Fixed Income,2006-11-06,0,0.46%,N?,N,N?,N?
+242,XCD,Blackrock,iShares SP Global Consumer Discretionary Index,Equity,2013-03-26,34,0.65%,N?,N,Y?,N?
+243,XCG,Blackrock,iShares Canadian Growth Index,Equity,2006-11-06,46,0.56%,N?,N,N?,N?
+244,XCR,Blackrock,iShares Conservative Core Portfolio Builder Fund,Equity,2008-11-13,10,0.63%,N?,N,N?,?
+245,XCS,Blackrock,iShares SPTSX Small Cap Index,Equity,2007-05-14,144,0.61%,N?,N,N?,N?
+246,XCV,Blackrock,iShares Canadian Value Index,Equity,2006-11-06,57,0.56%,N?,N,N?,N?
+247,XDV,Blackrock,iShares Canadian Select Dividend Index,Equity,2005-12-19,0,0.55%,N?,N,N?,N?
+248,XEB,Blackrock,iShares J.P. Morgan USD Emerging Markets Bond Index,Fixed Income,2011-04-12,30,0.74%,N?,N,Y?,N?
+249,XEC,Blackrock,iShares Core MSCI Emerging Markets IMI Index,Equity,2013-04-10,111,0.27%,N?,N,N?,N?
+250,XEF,Blackrock,iShares Core MSCI EAFE IMI Index,Equity,2013-04-10,377,0.22%,N?,N,N?,N?
+251,XEG,Blackrock,iShares SPTSX Capped Energy Index,Equity,2001-03-19,908,0.61%,N?,N,N?,N?
+252,XEH,Blackrock,iShares MSCI Europe IMI Index,Equity,2014-04-22,127,0.25%,N?,N,Y?,N?
+253,XEI,Blackrock,iShares Core SPTSX Composite High Dividend Index,Equity,2011-04-12,323,0.30%,N?,N,N?,N?
+254,XEM,Blackrock,iShares MSCI Emerging Markets Index,Equity,2009-06-18,245,0.78%,N?,N,N?,N?
+255,XEN,Blackrock,iShares Jantzi Social Index,Equity,2007-05-14,29,0.56%,N?,N,N?,N?
+256,XEU,Blackrock,iShares MSCI Europe IMI Index,Equity,2014-04-15,201,0.28%,N?,N,N?,N?
+257,XFN,Blackrock,iShares SPTSX Capped Financials Index,Equity,2001-03-23,906,0.61%,N?,N,N?,N?
+258,XFR,Blackrock,iShares Floating Rate Index,Equity,2011-12-06,293,0.22%,N?,N,N?,N?
+259,XGB,Blackrock,iShares Canadian Government Bond Index,Fixed Income,2006-11-06,307,0.40%,N?,N,N?,N?
+260,XGC,Blackrock,iShares Global Completion Portfolio Builder Fund,Equity,2008-11-13,10,0.73%,N?,N,N?,?
+261,XGD,Blackrock,iShares SPTSX Global Gold Index,Equity,2001-03-23,495,0.61%,N?,N,N?,N?
+262,XGI,Blackrock,iShares SP Global Industrials Index,Equity,2013-03-26,25,0.65%,N?,N,Y?,N?
+263,XGR,Blackrock,iShares Growth Core Portfolio Builder Fund,Equity,2008-11-13,12,0.63%,N?,N,N?,?
+264,XHC,Blackrock,iShares Global Healthcare Index,Equity,2011-04-12,203,0.64%,N?,N,Y?,N?
+265,XHD,Blackrock,iShares U.S. High Dividend Equity Index,Equity,2012-08-14,168,0.33%,N?,N,Y?,N?
+266,XIC,Blackrock,iShares Core SPTSX Capped Composite Index,Equity,2001-02-16,0,0.06%,N?,N,N?,N?
+267,XIN,Blackrock,iShares MSCI EAFE Index,Equity,2001-09-06,0,0.50%,N?,N,Y?,N?
+268,XIT,Blackrock,iShares SPTSX Capped Information Technology Index,Equity,2001-03-19,79,0.61%,N?,N,N?,N?
+269,XIU,Blackrock,iShares SPTSX 60 Index,Equity,1999-09-28,0,0.18%,N?,N,N?,N?
+270,XLB,Blackrock,iShares Core Canadian Long Term Bond Index,Fixed Income,2006-11-06,137,0.28%,N?,N,N?,N?
+271,XMA,Blackrock,iShares SPTSX Capped Materials Index,Equity,2005-12-19,108,0.61%,N?,N,N?,N?
+272,XMD,Blackrock,iShares SPTSX Completion Index,Equity,2001-03-02,214,0.62%,N?,N,N?,N?
+273,XMI,Blackrock,iShares MSCI EAFE Minimum Volatility Index,Equity,2011-10-18,0,0.20%,N?,N,N?,N?
+274,XMM,Blackrock,iShares MSCI Emerging Markets Minimum Volatility Index,Equity,2011-10-18,0,0.25%,N?,N,N?,N?
+275,XMU,Blackrock,iShares MSCI USA Minimum Volatility Index,Equity,2011-10-18,0,0.15%,N?,N,N?,N?
+276,XMV,Blackrock,iShares MSCI Canada Minimum Volatility Index,Equity,2012-07-24,28,0.32%,N?,N,N?,N?
+277,XMW,Blackrock,iShares MSCI All Country World Minimum Volatility Index,Equity,2011-10-18,0,0.20%,N?,N,N?,N?
+278,XQB,Blackrock,iShares Core High Quality Canadian Bond Index,Fixed Income,2009-11-19,243,0.19%,N?,N,N?,N?
+279,XQQ,Blackrock,iShares NASDAQ 100 Index,Equity,2011-05-03,72,0.39%,N?,N,Y?,N?
+280,XRB,Blackrock,iShares Canadian Real Return Bond Index,Fixed Income,2005-12-19,433,0.39%,N?,N,N?,N?
+281,XRE,Blackrock,iShares SPTSX Capped REIT Index,Equity,2002-10-17,0,0.61%,N?,N,N?,N?
+282,XSB,Blackrock,iShares Canadian Short Term Bond Index,Fixed Income,2000-11-20,0,0.28%,N?,N,N?,N?
+283,XSH,Blackrock,iShares Core Canadian Short Term Corporate Maple Bond Index,Fixed Income,2011-09-13,361,0.15%,N?,N,N?,N?
+284,XSP,Blackrock,iShares Core SP 500 Index,Equity,2001-05-24,0,0.13%,N?,N,Y?,N?
+285,XSQ,Blackrock,iShares Core Short Term High Quality Canadian Bond Index,Fixed Income,2014-07-15,38,0.14%,N?,N,N?,N?
+286,XST,Blackrock,iShares SPTSX Capped Consumer Staples Index,Equity,2011-04-12,122,0.61%,N?,N,N?,N?
+287,XSU,Blackrock,iShares U.S. Small Cap Index,Equity,2007-05-14,181,0.37%,N?,N,Y?,N?
+288,XTR,Blackrock,iShares Diversified Monthly Income,Equity,2005-12-19,729,0.56%,N?,N,N?,?
+289,XUS,Blackrock,iShares Core SP 500 Index,Equity,2013-04-10,478,0.11%,N?,N,N?,N?
+290,XUT,Blackrock,iShares SPTSX Capped Utilities Index,Equity,2011-04-12,111,0.63%,N?,N,N?,N?
+291,XVX,Blackrock,iShares SPTSX Venture Index,Equity,2011-09-13,6,0.87%,N?,N,N?,N?
+292,XWD,Blackrock,iShares MSCI World Index,Equity,2009-06-18,342,0.46%,N?,N,N?,N?
+293,XXM,First Asset,First Asset Morningstar US Value Index,Equity,2013-10-11,78,0.68%,N?,N,Y?,N?
+294,XXM.B,First Asset,First Asset Morningstar US Value Index,Equity,2013-10-11,78,0.68%,N?,N,Y?,N?
+295,YXM,First Asset,First Asset Morningstar US Momentum Index,Equity,2013-10-11,42,0.68%,N?,N,Y?,N?
+296,YXM.B,First Asset,First Asset Morningstar US Momentum Index,Equity,2013-10-11,42,0.68%,N?,N,Y?,N?
+297,ZAG,BMO,BMO Aggregate Bond Index,Fixed Income,2010-01-19,767,0.10%,N?,N,N?,N?
+298,ZBK,BMO,BMO Equal Weight U.S. Banks Index,Equity,2014-02-10,346,0.39%,N?,N,N?,N?
+299,ZCH,BMO,BMO China Equity Index,Equity,2010-01-19,36,0.74%,N?,N,Y,N?
+300,ZCM,BMO,BMO Mid Corporate Bond Index,Fixed Income,2010-01-19,747,0.34%,N?,N,N?,N?
+301,ZCN,BMO,BMO SPTSX Capped Composite Index,Equity,2009-05-29,0,0.06%,N?,N,N?,N?
+302,ZCS,BMO,BMO Short Corporate Bond Index,Fixed Income,2009-10-20,860,0.20%,N?,N,N?,N?
+303,ZDB,BMO,BMO Discount Bond Index,Fixed Income,2014-02-10,132,0.23%,N?,N,N?,N?
+304,ZDI,BMO,BMO International Dividend,Equity,2014-11-05,72,0.46%,N?,N,N?,?
+305,ZDJ,BMO,BMO Dow Jones Industrial Average Hedged Index,Equity,2009-05-29,118,0.26%,N?,N,N?,N?
+306,ZDM,BMO,BMO MSCI EAFE Hedged to CAD Index,Equity,2009-10-20,911,0.29%,N?,N,N?,N?
+307,ZDV,BMO,BMO Canadian Dividend,Equity,2011-10-21,549,0.40%,N?,N,N?,?
+308,ZDY,BMO,BMO US Dividend,Equity,2013-03-19,259,0.34%,N?,N,N?,?
+309,ZDY.U,BMO,BMO US Dividend,Equity,2013-03-19,259,0.34%,N?,N,N?,?
+310,ZEA,BMO,BMO MSCI EAFE Index,Equity,2014-02-10,570,0.25%,N?,N,N?,N?
+311,ZEB,BMO,BMO SPTSX Equal Weight Banks Index,Equity,2009-10-20,689,0.62%,N?,N,N?,N?
+312,ZEF,BMO,BMO Emerging Markets Bond Hedged Index,Fixed Income,2010-05-21,212,0.57%,N?,N,N?,N?
+313,ZEL,BMO,BMO Equity Linked Corporate Bond,Fixed Income,2014-11-05,6,0.47%,N?,N,N?,?
+314,ZEM,BMO,BMO MSCI Emerging Markets Index,Equity,2009-10-20,159,0.46%,N?,N,N?,N?
+315,ZEO,BMO,BMO SPTSX Equal Weight Oil Gas Index,Equity,2009-10-20,159,0.46%,N?,N,N?,N?
+316,ZEQ,BMO,BMO MSCI Europe High Quality Hedged to CAD Index,Equity,2014-02-10,255,0.46%,N?,N,N?,N?
+317,ZFH,BMO,BMO Floating Rate High Yield,Equity,2014-02-10,453,0.45%,N?,N,N?,?
+318,ZFL,BMO,BMO Long Federal Bond Index,Fixed Income,2010-05-19,93,0.23%,N?,N,N?,N?
+319,ZFM,BMO,BMO Mid Federal Bond Index,Fixed Income,2009-05-29,471,0.23%,N?,N,N?,N?
+320,ZFS,BMO,BMO Short Federal Bond Index,Fixed Income,2009-10-20,211,0.23%,N?,N,N?,N?
+321,ZGD,BMO,BMO SPTSX Equal Weight Global Gold Index,Equity,2012-11-14,11,0.63%,N?,N,N?,N?
+322,ZGI,BMO,BMO Global Infrastructure Index,Equity,2010-01-19,271,0.62%,N?,N,N?,N?
+323,ZGQ,BMO,BMO MSCI All Country World High Quality Index,Equity,2014-11-05,13,0.52%,N?,N,N?,N?
+324,ZHY,BMO,BMO High Yield US Corporate Bond Hedged Index,Fixed Income,2009-10-20,0,0.62%,N?,N,N?,N?
+325,ZIC,BMO,BMO Mid-Term US IG Corporate Bond Index,Fixed Income,2013-03-19,916,0.28%,N?,N,N?,N?
+326,ZIC.U,BMO,BMO Mid-Term US IG Corporate Bond Index,Fixed Income,2013-03-19,916,0.28%,N?,N,N?,N?
+327,ZID,BMO,BMO India Equity Index,Equity,2010-01-19,202,0.73%,N?,N,N?,N?
+328,ZIN,BMO,BMO SPTSX Equal Weight Industrials Index,Equity,2012-11-14,16,0.63%,N?,N,N?,N?
+329,ZJG,BMO,BMO Junior Gold Index,Equity,2010-01-19,44,0.62%,N?,N,N?,N?
+330,ZJN,BMO,BMO Junior Gas Index,Equity,2010-05-19,35,0.63%,N?,N,N?,N?
+331,ZJO,BMO,BMO Junior Oil Index,Equity,2010-05-19,40,0.63%,N?,N,N?,N?
+332,ZLB,BMO,BMO Low Volatility Canadian Equity,Equity,2011-10-21,555,0.40%,N?,N,N?,?
+333,ZLC,BMO,BMO Long Corporate Bond Index,Fixed Income,2010-01-19,127,0.34%,N?,N,N?,N?
+334,ZLU,BMO,BMO Low Volatility US Equity,Equity,2013-03-19,282,0.34%,N?,N,N?,?
+335,ZLU.U,BMO,BMO Low Volatility US Equity,Equity,2013-03-19,282,0.34%,N?,N,N?,?
+336,ZMI,BMO,BMO Monthly Income,Equity,2011-01-28,92,0.63%,N?,N,N?,?
+337,ZMP,BMO,BMO Mid Provincial Bond Index,Fixed Income,2013-03-19,140,0.28%,N?,N,N?,N?
+338,ZMT,BMO,BMO SPTSX Equal Weight Global Base Metals Hedged Index,Equity,2009-10-20,22,0.63%,N?,N,N?,N?
+339,ZMU,BMO,BMO Mid-Term US IG Corporate Bond Hedged to CAD Index,Fixed Income,2013-03-20,448,0.28%,N?,N,N?,N?
+340,ZPL,BMO,BMO Long Provincial Bond Index,Fixed Income,2013-03-19,176,0.28%,N?,N,N?,N?
+341,ZPR,BMO,BMO SPTSX Laddered Preferred Share Index,Equity,2012-11-14,0,0.51%,N?,N,N?,N?
+342,ZPS,BMO,BMO Short Provincial Bond Index,Fixed Income,2009-10-20,239,0.28%,N?,N,N?,N?
+343,ZQQ,BMO,BMO NASDAQ 100 Equity Hedged to CAD Index,Equity,2010-01-19,227,0.40%,N?,N,N?,N?
+344,ZRE,BMO,BMO Equal Weight REITs Index,Equity,2010-05-19,384,0.62%,N?,N,N?,N?
+345,ZRR,BMO,BMO Real Return Bond Index,Fixed Income,2010-05-19,31,0.29%,N?,N,N?,N?
+346,ZSP,BMO,BMO SP 500 Index,Equity,2012-11-14,0,0.09%,N?,N,N?,N?
+347,ZSP.U,BMO,BMO SP 500 Index,Equity,2012-11-14,0,0.09%,N?,N,N?,N?
+348,ZST,BMO,BMO Ultra Short-Term Bond,Fixed Income,2011-01-28,40,0.21%,N?,N,N?,?
+349,ZSU,BMO,BMO Short-Term US IG Corporate Bond Hedged to CAD Index,Fixed Income,2014-02-10,448,0.28%,N?,N,N?,N?
+350,ZUB,BMO,BMO Equal Weight U.S. Banks Hedged Index,Equity,2010-05-19,234,0.40%,N?,N,N?,N?
+351,ZUD,BMO,BMO US Dividend Hedged to CAD,Equity,2013-03-19,95,0.34%,N?,N,N?,?
+352,ZUE,BMO,BMO SP 500 Hedged to CAD Index,Equity,2009-05-29,684,0.13%,N?,N,N?,N?
+353,ZUH,BMO,BMO Equal Weight U.S. Health Care Hedged Index,Equity,2010-05-19,311,0.40%,N?,N,N?,N?
+354,ZUQ,BMO,BMO MSCI USA High Quality Index,Equity,2014-11-05,11,0.36%,N?,N,N?,N?
+355,ZUT,BMO,BMO Equal Weight Utilities Index,Equity,2010-01-19,181,0.62%,N?,N,N?,N?
+356,ZWA,BMO,BMO Covered Call Dow Jones Industrial Average Hedged to CAD,Equity,2011-10-20,221,0.73%,N?,N,N?,?
+357,ZWB,BMO,BMO Covered Call Canadian Banks,Equity,2011-01-28,0,0.73%,N?,N,N?,?
+358,ZWH,BMO,BMO US High Dividend Covered Call,Equity,2014-02-10,278,0.73%,N?,N,N?,?
+359,ZWU,BMO,BMO Covered Call Utilities,Equity,2011-10-20,353,0.74%,N?,N,N?,?
+360,ZXB,BMO,BMO 2015 Corporate Bond Target Maturity,Fixed Income,2011-01-28,11,0.34%,N?,N,N?,?
+361,ZXC,BMO,BMO 2020 Corporate Bond Target Maturity,Fixed Income,2011-01-28,5,0.37%,N?,N,N?,?
+362,ZXD,BMO,BMO 2025 Corporate Bond Target Maturity,Fixed Income,2011-01-28,5,0.37%,N?,N,N?,?
+363,ZXM,First Asset,First Asset Morningstar International Momentum Index,Equity,2014-11-13,16,0.42%,N?,N,Y?,N?
+364,ZXM.B,First Asset,First Asset Morningstar International Momentum Index,Equity,2014-11-13,16,0.42%,N?,N,Y?,N?
