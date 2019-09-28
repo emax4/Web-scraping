@@ -13,23 +13,19 @@ Web scraping of financial data
 * Pandas
 * BeautifulSoup
 * requests
+* yahoo_historical
 
 
 ### Data
 List of Canadian ETFs [Wikipedia](https://en.wikipedia.org/wiki/List_of_Canadian_exchange-traded_funds).
-Price
 
-Number of Instances: 48842
-Number of Attributes: 14
-Missing Values: ? (Yes)
+Financial metrics [Tmxmoney] (https://www.tmxmoney.com/en/)
 
-
-
-### Notebook
-[GitHub](https://github.com/emax4/Income-Classification/blob/master/Income.ipynb).
 
 ### Scripts
-[Python script](https://nbviewer.jupyter.org/github/emax4/Income-Classification/blob/master/Income.ipynb).
+[Wikipedia scraper script](https://nbviewer.jupyter.org/github/emax4/Income-Classification/blob/master/Income.ipynb).
+
+[tmxmoney scraper script](https://nbviewer.jupyter.org/github/emax4/Income-Classification/blob/master/Income.ipynb).
 
 
 
